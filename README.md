@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Manas Warke
 
-<!--
-**manaswarke/manaswarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Student  
+💻 Aspiring Data Analyst & Data Science Enthusiast  
+🚀 Passionate about Data Analytics, Machine Learning & Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- MERN Stack
+- Data Science
+- Machine Learning
+- Power BI
+- Git & GitHub
+
+---
+
+## 🛠️ Skills
+- Python
+- SQL
+- Power BI
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+
+---
+
+## 📚 Interests
+- Data Analytics
+- Machine Learning
+- Dashboard Development
+- Web Development
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/manas-warke-4b33a6320/
+- Email: warkemanas350@gmail.com
+
+---
+
+⭐ Always learning, building, and improving step by step.
+
