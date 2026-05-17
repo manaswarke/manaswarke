@@ -48,7 +48,9 @@
 
 ⭐ Always learning, building, and improving step by step.
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manaswarke&show_icons=true&theme=tokyonight)
 
 
 
