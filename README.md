@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manaswarke&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manaswarke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 
