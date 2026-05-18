@@ -5,6 +5,8 @@
 
 # Hi 👋, I'm Manas Warke
 
+![](https://komarev.com/ghpvc/?username=manaswarke&color=blue)
+
 🎓 BE Student  
 💻 Aspiring Data Analyst & Data Science Enthusiast  
 🚀 Passionate about Data Analytics, Machine Learning & Web Development
